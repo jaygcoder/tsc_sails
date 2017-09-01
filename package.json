@@ -8,6 +8,7 @@
     "ejs": "2.3.4",
     "eslint": "^4.5.0",
     "grunt": "1.0.1",
+    "grunt-cli": "^1.2.0",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-coffee": "1.0.0",
     "grunt-contrib-concat": "1.0.1",
@@ -31,5 +32,5 @@
   },
   "main": "app.js",
   "author": "Jay Garcia",
-  "license": ""
+  "license": "MIT"
 }
