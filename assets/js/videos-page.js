@@ -15,7 +15,8 @@ $(function whenDomIsReady(){
         $('.the-list-of-videos .loading').hide();
         
         var videosHtml = _.reduce(videos, function(html, video){
-            
+            html += '<li class="video">' +
+            '<h2>' + video.title + '<'
         })
     })
 })
